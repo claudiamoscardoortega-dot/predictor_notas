@@ -10,7 +10,7 @@ del estudiante, utilizando un modelo de regresión lineal múltiple.
 ```
 modelo_streamlit/
 ├── app.py                                          # Código de la aplicación
-├── estudiantes_data_final_proyecto__2_.csv         # Dataset de entrenamiento
+├── estudiantes_data_final_proyecto.csv             # Dataset de entrenamiento
 ├── requirements.txt                                # Dependencias
 └── README.md                                       # Este archivo
 ```
